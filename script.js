@@ -23,7 +23,7 @@ const quizData = [
     {
         question: "Which one is the smallest province of Pakistan?",
         options: ["Balochistan", "Sindh", "Khyber Pakhtunkhwa", "Punjab"],  
-        correct: "Sindh"
+        correct: "Khyber Pakhtunkhwa"
     }
 ]; // Total of 5 questions
 
